@@ -1,6 +1,6 @@
-# Foobar
+# HEMLO
 
-Foobar is a Python library for dealing with word pluralization.
+HI THIS IS ME. ^_^
 
 ## Installation
 
